@@ -2,7 +2,7 @@
 LanguageDetective is a powerful text analytics tool that leverages the OLID dataset to accurately detect and identify the language of text samples. With its advanced algorithms, it provides precise language detection for a wide range of applications.
 
 
-This study addresses the growing issue of offensive language in user-generated content on social media. It proposes and compares two methods for classifying offensive language, aiming to maintain a positive online environment. The first method combines support vector machine (SVM) and random forest classifiers in a stacking approach, while the second method utilizes a deep learning-based bidirectional LSTM neural network with tokenization and padding sequences. Evaluation is conducted using the OLID benchmark offensive language dataset. The study contributes to the development of effective mechanisms for combating offensive language and promoting inclusivity in online spaces.
+This study addresses the growing issue of offensive language in user-generated content on social media. It proposes and compares two methods for classifying offensive language, aiming to maintain a positive online environment. The first method combines **support vector machine (SVM) and random forest classifiers in a stacking approach, while the second method utilizes a deep learning-based bidirectional LSTM neural network with tokenization and padding sequences**. Evaluation is conducted using the ***OLID*** benchmark offensive language dataset. The study contributes to the development of effective mechanisms for combating offensive language and promoting inclusivity in online spaces.
 
 The following data is used in this study. To utilize the dataset, simply download it and adjust the file paths according to your setup.
 
